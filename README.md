@@ -1,4 +1,3 @@
-# 💫 About Me:
 Computer Science student focused on systems automation and AI. I build tools that cut repetitive work, streamline processes, and make software more autonomous. With hands-on experience writing programs in assembly and a solid grasp of low-level concepts such as memory management, I enjoy understanding how systems work from the hardware up. I love solving hard problems, learning new technologies, and turning ideas into practical projects. Open to collaborating on open-source work and connecting with fellow developers
 
 
